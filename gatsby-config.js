@@ -1,19 +1,19 @@
 module.exports = {
   pathPrefix: '/workouts_page', // Change to `/workouts_page` when running on GitHub pages
   siteMetadata: {
-    siteTitle: 'Workouts Map',
+    siteTitle: 'Running HeatMap',
     siteUrl: 'https://ben29.xyz',
-    logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+    logo: 'https://connect.garmin.cn/signin/',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://ben29.xyz',
+        url: 'https://www.baidu.com/',
       },
       {
         name: 'About',
-        url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+        url: 'https://mail.163.com/',
       },
     ],
   },
