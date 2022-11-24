@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/workouts_page', // Change to `/workouts_page` when running on GitHub pages
   siteMetadata: {
     siteTitle: 'Running HeatMap',
-    siteUrl: 'https://ben29.xyz',
+    siteUrl: 'https://www.strava.com/login',
     logo: 'https://connect.garmin.cn/signin/',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
