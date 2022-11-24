@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running HeatMap',
     siteUrl: 'https://www.strava.com/login',
-    logo: 'https://connect.garmin.cn/signin/',
+    logo: 'https://github.com/FuzheWang/workouts_page.git',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
