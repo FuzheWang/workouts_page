@@ -3,13 +3,13 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running HeatMap',
     siteUrl: 'https://www.strava.com/login',
-    logo: 'https://github.com/FuzheWang/workouts_page.git',
+    logo: 'https://github.com/settings/profile',
     description: 'Personal Workouts Page',
     keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://www.baidu.com/',
+        url: 'https://github.com/FuzheWang/workouts_page.git',
       },
       {
         name: 'About',
